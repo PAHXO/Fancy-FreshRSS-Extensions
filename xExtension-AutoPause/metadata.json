@@ -1,0 +1,8 @@
+{
+	"name": "Video Auto Pause",
+	"author": "PAHXO",
+	"description": "Pauses video when out of view, and plays them if in view",
+	"version": 0.1,
+	"entrypoint": "AutoPause",
+	"type": "user"
+}

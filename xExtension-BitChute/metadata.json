@@ -1,0 +1,8 @@
+{
+	"name": "BitChute Video Feed",
+	"author": "PAHXO",
+	"description": "Embed BitChute feeds inside article content.",
+	"version": 0.10,
+	"entrypoint": "BitChute",
+	"type": "user"
+}

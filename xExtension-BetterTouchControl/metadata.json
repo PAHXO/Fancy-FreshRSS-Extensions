@@ -1,0 +1,8 @@
+{
+	"name": "BetterTouch Control",
+	"author": "PAHXO",
+	"description": "Add touch gestures to FreshRSS.",
+	"version": 0.3,
+	"entrypoint": "BetterTouchControl",
+	"type": "user"
+}

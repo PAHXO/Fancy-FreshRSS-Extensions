@@ -1,0 +1,8 @@
+{
+	"name": "MediaArchiver",
+	"author": "PAXXO",
+	"description": "Archives Videos and Images. <br> WARNNING IT ARCIVES THEM INTO /p/i/ArchivedMedia which is an exposed directory <br> Please install wget or uncomment file_get_content but performance may be poor",
+	"version": 0.1,
+	"entrypoint": "MediaArchiver",
+	"type": "user"
+}
